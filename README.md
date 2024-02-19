@@ -54,9 +54,6 @@ Here's a basic example of how to use the Vehicle Rental System:
 3. The program will display the rental transaction details, including the total cost.
 4. To view your rental history, select option 4 from the menu.
 
-## Contributors
-
-- [Praneetm1403](https://github.com/Praneetm1403)
 
 ## License
 
